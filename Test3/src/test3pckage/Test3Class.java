@@ -11,7 +11,7 @@ public class Test3Class {
 		// TODO Auto-generated method stub
 		System.out.println("First input number: ");
 		Scanner scan = new Scanner(System.in);
-		int a = scan.nextInt();
+		int a = scan.nextInt();	
 		System.out.println("Second input number: ");
 		int b = scan.nextInt();
 		int c = a+b;
