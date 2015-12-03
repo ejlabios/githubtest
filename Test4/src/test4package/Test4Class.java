@@ -8,6 +8,7 @@ public class Test4Class {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Test4");
+		System.out.println("test123");
 		System.out.println("Test6");
 		
 
