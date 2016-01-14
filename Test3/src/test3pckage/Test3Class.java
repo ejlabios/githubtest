@@ -18,7 +18,7 @@ public class Test3Class {
 		int d=a+a+b+b;
 		System.out.println("Sum = "+ c);
 		
-		
+
 	}
 
 }
