@@ -16,7 +16,7 @@ public class Test3Class {
 		int b = scan.nextInt();
 		int c = a+b;
 		int d=a+b+c;
-		System.out.println("Sum = "+ c);
+		System.out.println("Sum = "+ d);
 		
 		
 	}
