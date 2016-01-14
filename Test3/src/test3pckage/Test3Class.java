@@ -15,7 +15,7 @@ public class Test3Class {
 		System.out.println("Second input number: ");
 		int b = scan.nextInt();
 		int c = a+b;
-		int d=a=c;
+		int d=a+c;
 		System.out.println("Sum = "+ c);
 		
 		
